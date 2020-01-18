@@ -26,7 +26,7 @@
        <input type="submit" name="load_data" value="Load Data" />
  </form>
  <?php
-    $host = "<tcp:linuxserver.database.windows.net,1433";
+    $host = "linuxserver.database.windows.net";
     $user = "riel";
     $pass = "Dragneels1";
     $db = "rieldb";
